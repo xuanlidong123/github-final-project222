@@ -3,7 +3,6 @@ Command:
 git checkout main
 
 Output:
-
 Switched to branch 'main'
 
 
@@ -13,7 +12,7 @@ git merge bug-fix-typo
 
 Output:
 
-Updating abc1234..def5678
+Updating abc123..def456
 Fast-forward
  README.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
