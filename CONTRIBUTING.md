@@ -1,36 +1,38 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to this project. All contributions are welcome.
+Thank you for contributing to this project.
 
 ## Welcome All Contributions
 
-We welcome contributions from everyone. You can help improve this project by reporting issues, fixing bugs, improving documentation, adding enhancements, or sharing ideas.
+All contributions are welcome. Everyone is encouraged to participate and help improve this project.
 
 ## Bug Reports
 
-If you find a bug, please create an issue and provide:
+If you find a bug, please submit a bug report.
 
-- A clear description of the problem.
-- Steps to reproduce the issue.
-- Expected and actual results.
-- Any relevant screenshots or information.
+A good bug report should include:
+
+- A clear description of the issue.
+- Steps to reproduce the problem.
+- Expected behavior.
+- Actual behavior.
 
 ## Bug Fixes
 
-Bug fixes are welcome. Please describe the problem you fixed and explain your changes clearly in your pull request.
+Bug fixes are welcome. Please describe the problem and explain how your fix resolves the issue.
 
 ## Documentation Improvements
 
-Improvements to documentation are encouraged. You can help by correcting errors, improving explanations, or adding missing information.
+Documentation improvements are encouraged. You can help by correcting mistakes, improving explanations, or adding missing documentation.
 
 ## Enhancements
 
-We welcome enhancements that improve functionality, performance, usability, or user experience.
+Enhancements and improvements to the project are welcome, including new features, performance improvements, and usability improvements.
 
 ## Ideas
 
-We appreciate new ideas and suggestions. Please open an issue to discuss possible improvements before implementing major changes.
+We welcome ideas and suggestions for future improvements. Please create an issue to discuss your ideas.
 
-## Submitting Changes
+## Pull Requests
 
-Please submit your changes through a pull request and provide a clear description of your contribution.
+Please submit changes through a pull request and provide a clear description of your contribution.
