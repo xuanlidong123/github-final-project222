@@ -1,0 +1,15 @@
+Command:
+
+curl -X GET https://api.github.com/repos/xuanlidong123/simple-interest-calculator
+
+
+Output:
+
+{
+  "name": "simple-interest-calculator",
+  "full_name": "xuanlidong123/simple-interest-calculator",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
