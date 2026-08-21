@@ -1,40 +1,39 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
 ## Our Commitment
 
-We are committed to providing a welcoming and inclusive environment for all contributors.
+We are committed to providing a welcoming and inclusive environment for all contributors and users.
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a positive environment include:
+Examples of positive behavior include:
 
-- Showing respect and consideration toward others.
-- Accepting constructive feedback.
-- Communicating professionally.
+- Respectful communication
+- Accepting constructive feedback
+- Supporting other community members
 
 Unacceptable behavior includes:
 
 - Harassment
 - Discrimination
 - Personal attacks
-- Publishing private information without permission
 
 ## Enforcement Responsibilities
 
-Project maintainers are responsible for clarifying and enforcing the standards of acceptable behavior.
+Project maintainers are responsible for enforcing the standards of acceptable behavior.
 
 ## Scope
 
-This Code of Conduct applies to all project spaces, including repositories, issues, pull requests, and discussions.
+This Code of Conduct applies to all project spaces, including repositories, issues, discussions, and pull requests.
 
 ## Enforcement
 
-Instances of abusive behavior may be reported to project maintainers.
+Instances of abusive or unacceptable behavior may be reported to project maintainers.
 
 ## Enforcement Guidelines
 
-Maintainers may remove inappropriate content, issue warnings, or restrict participation.
+Project maintainers may remove inappropriate content, issue warnings, or restrict participation.
 
 ## Attribution
 
-This Code of Conduct is adapted from the Contributor Covenant Code of Conduct.
+This Code of Conduct is adapted from the Contributor Covenant.
