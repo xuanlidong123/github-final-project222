@@ -1,3 +1,7 @@
+## Our Pledge
+
+We pledge to make participation in our project a welcoming and respectful experience for everyone. We are committed to providing an environment free from harassment and discrimination, regardless of age, background, identity, or experience.
+
 # Code of Conduct
 
 ## Our Commitment
